@@ -1,2 +1,2 @@
-# Kickstarter-analysi
+# CrowedFunding-Analysis
 Performing analysis on Kickstarter data to uncover trends
